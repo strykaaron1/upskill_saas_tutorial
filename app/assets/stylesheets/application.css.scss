@@ -35,6 +35,11 @@ background: linear-gradient(to right, #E2E2E2, #C9D6FF); /* W3C, IE 10+/ Edge, F
     border: none;
 }
 
+.navbar-brand {
+    font-family: 'Open sans', sans-serif;
+    font-weight: 800;
+}
+
 .navbar-default .navbar-brand, // navbar styles
 .navbar-default .navbar-nav > li > a{
     color:white;
