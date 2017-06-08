@@ -28,6 +28,10 @@ gem 'jbuilder', '2.5.0'
 gem 'bootstrap-sass', '3.3.7'
 
 #user twitter bootstrap library for front end UI and Layout
+
+gem 'font-awesome-sass', '4.6.2'
+#use font aewsome sass gem for adding icones
+
 group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
